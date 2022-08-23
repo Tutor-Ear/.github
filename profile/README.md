@@ -9,7 +9,7 @@
 > :construction: 개발중
 
 - 홈페이지: 60%
-- [mi-ple](https://github.com/Tutor-Ear/mi-ple): 90%
+- [mi-ple](https://github.com/Tutor-Ear/mi-ple): v1.0.0
 - 사보 시스템: v0.9.0
 - 채점 시스템: 40%
 
@@ -17,7 +17,6 @@
 Tutor-Ear 에서는 일부 프로젝트를 오픈 소스로 공개하였습니다. 이는 여러분이 직접 코드를 테스트하고 프로젝트에 기여를 할 수 있음을 의미합니다. 철자 오류, 반짝거리는 아이디어, 더 나은(성능, 문법)코드 등이 있다면 주저하지 말고 프로젝트에 함께 참여 부탁드립니다! 아래는 오픈 소스로 공개된 프로젝트 리스트 입니다.
 
 - [mi-ple](https://github.com/Tutor-Ear/mi-ple) - 청음 문제(.mid) 재생 시스템
-- [UI](https://github.com/Tutor-Ear/UI) - 프로젝트 전체에 사용되는 UI/UX 디자인 라이브러리
 - [utility-hooks](https://github.com/Tutor-Ear/utility-hooks) - 빠르고 더 적은 코드 작성이 가능한 React Hooks 라이브러리
 
 ## :family: Our Team
