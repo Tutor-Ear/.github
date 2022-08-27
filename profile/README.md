@@ -8,7 +8,7 @@
 ## :zap: Status
 > :construction: 개발중
 
-- 홈페이지: 60%
+- 홈페이지: 70%
 - [mi-ple](https://github.com/Tutor-Ear/mi-ple): v1.0.0
 - 사보 시스템: v0.9.0
 - 채점 시스템: 40%
